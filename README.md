@@ -8,7 +8,7 @@ I have completed projects that simulate real-world business scenarios, focusing 
 In my free time, I explore new tools and techniques in analytics, contribute to personal projects, and sharpen my problem-solving abilities.
 
 ## Portfolio Projects
-code: Jira Data Analysis – SQL Project(https://github.com/divyadata2306/jira-ticket-analytics.git)
+code: Jira Data Analysis – SQL Project(https://github.com/divyadata2306/jira-ticket-analytics/blob/main/jira_ticket_analysys.sql)
 
 Description : The dataset contains records of safety incident reports, and resolution details from daily operational workflows.  
 This project includes the following steps: data loading, data cleaning and preprocessing, SQL-based data exploration, and generating insights on case categories, resolution patterns, and turnaround times.
