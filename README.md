@@ -1,1 +1,1 @@
-# jira-ticket-analytics
+Tianna Parris - Data Analyst Portfolio
