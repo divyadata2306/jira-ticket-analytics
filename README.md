@@ -6,3 +6,6 @@ I am a data enthusiast with a background in statistics and a strong passion for 
 I have completed projects that simulate real-world business scenarios, focusing on data cleaning, analysis, and reporting. My goal is to continuously expand my skills in analytics and data science while building solutions that create measurable impact.
 
 In my free time, I explore new tools and techniques in analytics, contribute to personal projects, and sharpen my problem-solving abilities.
+
+##Portfolio Projects
+code: Jira Data Analysis – SQL Project()
